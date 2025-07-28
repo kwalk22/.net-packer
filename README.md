@@ -1,0 +1,2 @@
+# .net-packer
+.net obfuscator
